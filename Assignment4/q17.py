@@ -1,6 +1,6 @@
 # Pattern 17: Inverted Star Pyramid Using While Loop
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 
 num = 5
 row = 1
