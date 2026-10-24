@@ -9,7 +9,7 @@
 # Marks >= 40 -> Average
 # Marks < 40 -> Fail
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 students = {
     "Rahul": 85,
     "Amit": 35,
