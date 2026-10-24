@@ -1,5 +1,5 @@
 # Q18. Find employees who earn more than Rs. 60,000 and belong to IT.
-print("By tanishka Mishra")
+print("By Kavyansh Sharma")
 employees = [
     {"name": "Amit", "department": "IT", "salary": 55000},
     {"name": "Rahul", "department": "HR", "salary": 70000},
@@ -12,4 +12,4 @@ result = [
     if employee["salary"] > 60000 and employee["department"] == "IT"
 ]
 print(result)
-print("tanishka mishra")
+print("Kavyansh Sharma")
