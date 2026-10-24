@@ -1,6 +1,6 @@
 # Pattern 7: Continuous Number Triangle
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 
 row = 5
 num = 2
