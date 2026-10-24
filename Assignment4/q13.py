@@ -1,6 +1,6 @@
 # Pattern 13: Square Pattern Using While Loop
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 
 num = 4
 row = 1
