@@ -11,7 +11,7 @@
 # Otherwise -> Full price.
 # If no seats -> "House Full".
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 seats = int(input("Enter number of available seats: "))
 
 if seats > 0:
