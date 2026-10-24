@@ -1,6 +1,6 @@
 # Pattern 9: Decreasing Star Pyramid
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 
 n = 5
 
@@ -14,4 +14,4 @@ for i in range(n, 0, -1):
     
     print(end="\n")
 
-print("tanishka mishra")
+print("Kavyansh Sharma")
