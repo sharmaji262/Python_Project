@@ -1,6 +1,6 @@
 # Pattern 12: Star Diamond Using For Loop
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 
 n = 5
 
