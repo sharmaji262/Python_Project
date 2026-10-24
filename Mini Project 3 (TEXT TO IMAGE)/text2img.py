@@ -1,5 +1,5 @@
 from PIL import Image, ImageDraw, ImageFont
-print("By tanishka Mishra")
+print("By Kavyansh Sharma")
 
 text = input("Enter the text to convert to image: ")
 
@@ -16,4 +16,4 @@ image.show()
 
 
 
-print("tanishka mishra")
+print("Kavyansh Sharma")
