@@ -1,6 +1,6 @@
 # Exercise 8: Take a number from the user and print its multiplication table.
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 num = int(input("Enter a number: "))
 
 for i in range(1, 11):
