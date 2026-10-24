@@ -1,5 +1,5 @@
 # Q17. Find names of employees from the IT department.
-print("By tanishka Mishra")
+print("By Kavyansh Sharma")
 employees = [
     {"name": "Amit", "department": "IT"},
     {"name": "Rahul", "department": "HR"},
@@ -8,4 +8,4 @@ employees = [
 ]
 result = [employee["name"] for employee in employees if employee["department"] == "IT"]
 print(result)
-print("tanishka mishra")
+print("Kavyansh Sharma")
