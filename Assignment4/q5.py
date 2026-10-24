@@ -10,4 +10,4 @@ for i in range(rows):
         print("*", end=" ")
     print(end="\n")
 
-print("tanishka mishra")
+print("Kavyansh Sharma")
