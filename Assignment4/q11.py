@@ -1,6 +1,6 @@
 # Pattern 11: Increasing and Decreasing Number Pyramid
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 
 n = 5
 
