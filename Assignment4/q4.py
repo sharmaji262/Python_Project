@@ -1,6 +1,6 @@
 # Pattern 4: Square Pattern Using Input
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 
 n = int(input("Enter No of rows: "))
 
