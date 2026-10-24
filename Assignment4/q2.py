@@ -9,4 +9,4 @@ for i in range(n, 0, -1):
         print("*", end=" ")
     print(end="\n")
 
-print("saxenasanskriti")
+print("Kavyansh Sharma")
