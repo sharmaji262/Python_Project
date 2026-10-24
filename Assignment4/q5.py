@@ -1,6 +1,6 @@
 # Pattern 5: Rows and Columns Star Pattern
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 
 rows = int(input("Enter No of rows: "))
 columns = int(input("Enter No of columns: "))
