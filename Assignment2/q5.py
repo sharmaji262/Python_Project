@@ -14,7 +14,7 @@
 # Wrong password -> "Wrong Password"
 # Wrong username -> "Invalid Username"
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 correct_username = "sanskriti"
 correct_password = "1234"
 
