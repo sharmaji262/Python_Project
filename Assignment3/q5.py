@@ -8,7 +8,7 @@
 # Even and <= 20 -> Even
 # Odd -> Odd
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 data = {
     "a": 10,
     "b": 15,
