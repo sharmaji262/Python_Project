@@ -1,6 +1,6 @@
 # Pattern 6: Alphabet Triangle
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 
 n = 5
 
