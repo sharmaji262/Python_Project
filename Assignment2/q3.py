@@ -9,7 +9,7 @@
 # Credit score >= 650 -> Loan approved with higher interest
 # Otherwise -> Loan rejected.
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 age = int(input("Enter your age: "))
 salary = float(input("Enter your salary: "))
 credit_score = int(input("Enter your credit score: "))
