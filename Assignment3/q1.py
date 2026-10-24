@@ -8,7 +8,7 @@
 # Marks >= 40 -> Pass
 # Marks < 40 -> Fail
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 
 students = {
     "Rahul": 75,
