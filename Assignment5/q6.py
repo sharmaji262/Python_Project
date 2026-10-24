@@ -1,6 +1,6 @@
 # Q6. Extract vowels from a string and store the result into a new list.
-print("By tanishka Mishra")
+print("By Kavyansh Sharma")
 text = "programming"
 result = [char for char in text if char in "aeiouAEIOU"]
 print(result)
-print("tanishka mishra")
+print("Kavyansh Sharma")
