@@ -11,4 +11,4 @@ for i in range(1, row + 1):
         num += 1
     print(end="\n")
 
-print("tanishka mishra")
+print("Kavyansh Sharma")
