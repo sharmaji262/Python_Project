@@ -9,7 +9,7 @@
 # Otherwise -> Expensive Product
 # Price < 1000 -> Affordable Product
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 products = {
     "Mobile": 15000,
     "Mouse": 500,
