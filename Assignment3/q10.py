@@ -19,7 +19,7 @@
 # Neha Pass
 # Rohit Not Eligible
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 students = {
     "Rahul": {"marks": 85, "attendance": 90},
     "Amit": {"marks": 35, "attendance": 80},
