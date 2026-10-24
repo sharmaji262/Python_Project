@@ -1,6 +1,6 @@
 
 # Q12. Employee Management: Find employees earning more than Rs. 50,000.
-print("By tanishka Mishra")
+print("By Kavyansh Sharma")
 
 employees = [
     {"name": "Amit", "salary": 45000},
@@ -13,4 +13,4 @@ result = [employee["name"] for employee in employees if employee["salary"] > 500
 
 print(result)
 
-print("tanishka mishra")
+print("Kavyansh Sharma")
