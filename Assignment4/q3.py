@@ -1,6 +1,6 @@
 # Pattern 3: Square Star Pattern
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 
 n = 4
 
