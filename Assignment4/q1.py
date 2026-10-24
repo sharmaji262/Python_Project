@@ -1,6 +1,6 @@
 # Pattern 1: Increasing Star Triangle
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 
 n = 5
 
