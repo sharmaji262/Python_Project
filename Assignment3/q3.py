@@ -10,7 +10,7 @@
 # Stock > 5 -> Available
 
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 products = {
     "Laptop": 10,
     "Mouse": 3,
