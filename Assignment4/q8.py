@@ -1,6 +1,6 @@
 # Pattern 8: Increasing Star Pyramid
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 
 n = int(input("Enter no of rows: "))
 
@@ -14,4 +14,4 @@ for i in range(1, n + 1):
     
     print(end="\n")
 
-print("tanishka mishra")
+print("Kavyansh Sharma")
