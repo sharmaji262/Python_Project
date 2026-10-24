@@ -1,6 +1,6 @@
 # Pattern 10: Diamond Star Pattern
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 
 n = 5
 
