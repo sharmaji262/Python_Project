@@ -1,7 +1,7 @@
 
 # Exercise 5: Find the sum of even numbers from 1 to 100.
 
-print("by Tanishka Mishra ")
+print("by Kavyansh Sharma ")
 sum = 0
 
 for i in range(1, 101):
