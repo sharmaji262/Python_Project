@@ -1,5 +1,5 @@
 # Q16. Find names of students who scored 60 or more.
-print("By tanishka Mishra")
+print("By Kavyansh Sharma")
 students = [
     {"name": "Amit", "marks": 75},
     {"name": "Rahul", "marks": 45},
@@ -8,4 +8,4 @@ students = [
 ]
 result = [student["name"] for student in students if student["marks"] >= 60]
 print(result)
-print("tanishka mishra")
+print("Kavyansh Sharma")
