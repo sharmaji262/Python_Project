@@ -1,6 +1,6 @@
 # Pattern 15: Centered Star Pyramid Using While Loop
 
-print("by tanishka mishra ")
+print("by Kavyansh Sharma ")
 
 num = 5
 row = 1
